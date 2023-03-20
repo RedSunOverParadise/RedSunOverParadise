@@ -1,4 +1,4 @@
-I'm a casual developer mostly interested in linux and dream maker, my educational background is in International relations so this is just a hobby for me.
+I'm a casual developer mostly interested in gnu/linux and open source, currently studying Information technology at the Royal Melbourne Institute of Technology
 I'm from Melbourne, Australia.
 I'm 27 years old.
-My discord contact is: Contact#0888
+I've used a lot of different distros over my time with linux, but I eventually settled on SUSE and Debian.
